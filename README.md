@@ -1,3 +1,3 @@
-## Training
+## Installation Instructions
 
-Deze repository wordt gebruikt voor GitHub Foundations hands-on labs.
+install.exe
