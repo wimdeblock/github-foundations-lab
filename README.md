@@ -1,1 +1,3 @@
-# GitHub Foundations Lab
+## Training
+
+Deze repository wordt gebruikt voor GitHub Foundations hands-on labs.
